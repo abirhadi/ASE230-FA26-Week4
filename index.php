@@ -18,4 +18,6 @@ if ($exists) {
 
 // echo $path;
 
+echo "adding a new line for git demo";
+
 ?>
