@@ -62,4 +62,6 @@ if ($result === false) {
 
 echo "A new line has been added";
 
+echo "Adding a new line for git pull demo";
+
 ?>

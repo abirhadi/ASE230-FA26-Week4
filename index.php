@@ -20,4 +20,6 @@ if ($exists) {
 
 echo "adding a new line for git demo";
 
+echo "adding a line for diff comparison";
+
 ?>
